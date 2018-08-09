@@ -103,7 +103,7 @@ alias mux=tmuxinator
 export EDITOR=vim
 export SHELL=zsh
 source ~/repos/tools/tmuxinator/completion/tmuxinator.zsh 
-
+alias tm=tmux a -t 0
 
 # Fastlane
 export PATH="$HOME/.fastlane/bin:$PATH"
